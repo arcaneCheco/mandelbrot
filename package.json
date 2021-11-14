@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
   "dependencies": {
     "stats.js": "^0.17.0",
     "three": "^0.134.0",
